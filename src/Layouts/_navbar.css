@@ -1,0 +1,25 @@
+.navbar {
+  margin: 0px var(--spacing-xl);
+  height: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--primary);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo > h1 {
+  font-size: 34px;
+}
+.logo > p {
+  padding-left: 6px;
+  font-size: 24px;
+  color: #ff0266;
+  /* color: var(--secondary); */
+}
+.navbar > .flex > .icon-btn {
+  margin-left: 100px;
+}

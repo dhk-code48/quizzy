@@ -1,0 +1,15 @@
+.users {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  padding: 0px 140px;
+  flex-direction: column;
+  min-height: calc(100vh - 120px);
+}
+.users_profile {
+  display: flex;
+  align-items: center;
+  /* background: rgb(192, 192, 192); */
+  padding: 10px 50px 10px 20px;
+  border-radius: 500px;
+}

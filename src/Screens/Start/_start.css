@@ -1,0 +1,31 @@
+.start > h1 {
+  display: flex;
+  justify-content: center;
+  color: var(--primary);
+  font-family: "Rubik";
+  text-transform: uppercase;
+}
+.start > h1 > p {
+  color: var(--secondary);
+  margin-left: 10px;
+}
+.start__options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.start__options > div {
+  align-items: center;
+  display: flex;
+  flex: 1fr 1fr;
+  justify-content: space-between;
+  width: 320px;
+}
+.start__options > div > p {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.start__options > div > select {
+  width: 190px;
+}

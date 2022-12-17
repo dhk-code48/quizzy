@@ -1,0 +1,442 @@
+{
+  "course": {
+    "Math": {
+      "subjectName": "Math",
+      "noOfQuestion": 25,
+      "noOfChapters": 5,
+      "chapters": {
+        "Music": {
+          "chapterName": "Music",
+          "numberOfQuestions": 5,
+          "questions": [
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Music",
+              "difficulty": "medium",
+              "question": "Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?",
+              "correct_answer": "Can&#039;t Help Falling in Love",
+              "options": [
+                "Can&#039;t Help Falling in Love",
+                "Jailhouse Rock",
+                "In the Ghetto",
+                "Wooden Heart"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Music",
+              "difficulty": "medium",
+              "question": "Which one of these people has been in the band &#039;&#039;Metallica&#039;&#039; in the past?",
+              "correct_answer": "Dave Mustaine",
+              "options": [
+                "Dave Mustaine",
+                "Kurt Cobain",
+                "Joey Belladonna",
+                "Dave Lombardo"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Music",
+              "difficulty": "medium",
+              "question": "Who was the guitarist in the band &quot;The Doors&quot;?",
+              "correct_answer": "Robby Krieger",
+              "options": [
+                "Robby Krieger",
+                "Eric Clapton",
+                "John Densmore",
+                "Jimi Hendrix"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Music",
+              "difficulty": "hard",
+              "question": "Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?",
+              "correct_answer": "Snoop Dogg",
+              "options": [
+                "Snoop Dogg",
+                "Vince Staples",
+                "Pusha T",
+                "Danny Brown"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Music",
+              "difficulty": "hard",
+              "question": "Panic! At the Disco&#039;s sixth album &quot;Pray For The Wicked&quot; was released on which date?",
+              "correct_answer": "June 22, 2018",
+              "options": [
+                "June 22, 2018",
+                "May 9, 2018",
+                "March 13, 2018",
+                "February 21, 2018"
+              ]
+            }
+          ]
+        },
+        "General Knowledge": {
+          "chapterName": "General Knowledge",
+          "numberOfQuestions": 5,
+          "questions": [
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "General Knowledge",
+              "difficulty": "easy",
+              "question": "What is the famous Papa John&#039;s last name?",
+              "correct_answer": "Schnatter",
+              "options": ["Schnatter", "Chowder", "Williams", "ANDERSON"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "General Knowledge",
+              "difficulty": "medium",
+              "question": "What fast food chain has the most locations globally? ",
+              "correct_answer": "Subway",
+              "options": ["Subway", "Starbucks", "McDonalds", "KFC"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "General Knowledge",
+              "difficulty": "easy",
+              "question": "In aerodynamics, which force pushes an object upwards?",
+              "correct_answer": "Lift",
+              "options": ["Lift", "Drag", "Weight", "Thrust"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "General Knowledge",
+              "difficulty": "easy",
+              "question": "Ping-Pong originated in England",
+              "correct_answer": "True",
+              "options": ["True", "False"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "General Knowledge",
+              "difficulty": "hard",
+              "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+              "correct_answer": "10",
+              "options": ["10", "6", "8", "12"]
+            }
+          ]
+        },
+
+        "Sport": {
+          "chapterName": "Sport",
+          "numberOfQuestions": 5,
+          "questions": [
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Sports",
+              "difficulty": "medium",
+              "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+              "correct_answer": "Puma",
+              "options": ["Puma", "Nike", "Adidas", "Reebok"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Sports",
+              "difficulty": "easy",
+              "question": "In golf, what name is given to a hole score of two under par?",
+              "correct_answer": "Eagle",
+              "options": ["Eagle", "Birdie", "Bogey", "Albatross"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Sports",
+              "difficulty": "medium",
+              "question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+              "correct_answer": "Philadelphia Flyers",
+              "options": [
+                "Philadelphia Flyers",
+                "New York Rangers",
+                "Toronto Maple Leafs",
+                "Boston Bruins"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Sports",
+              "difficulty": "medium",
+              "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+              "correct_answer": "Saints",
+              "options": ["Saints", "Harlequins", "Saracens", "Wasps"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Sports",
+              "difficulty": "easy",
+              "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+              "correct_answer": "Leicester City",
+              "options": [
+                "Leicester City",
+                "Northampton Town",
+                "Bradford City",
+                "West Bromwich Albion"
+              ]
+            }
+          ]
+        },
+        "Film": {
+          "chapterName": "Film",
+          "numberOfQuestions": 5,
+          "questions": [
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Film",
+              "difficulty": "easy",
+              "question": "Which of the following is not the name of a &quot;Bond Girl&quot;? ",
+              "correct_answer": "Vanessa Kensington",
+              "options": [
+                "Vanessa Kensington",
+                "Pam Bouvier",
+                "Mary Goodnight",
+                "Wai Lin"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Film",
+              "difficulty": "easy",
+              "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+              "correct_answer": "Harry Potter",
+              "options": [
+                "Harry Potter",
+                "Ted",
+                "Spy Kids",
+                "Pirates of the Caribbean "
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Film",
+              "difficulty": "easy",
+              "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+              "correct_answer": "Michael Keaton",
+              "options": [
+                "Michael Keaton",
+                "George Clooney",
+                "Val Kilmer",
+                "Adam West"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Film",
+              "difficulty": "medium",
+              "question": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+              "correct_answer": "The Vikings ",
+              "options": [
+                "The Vikings ",
+                "The Long Ships",
+                "Prince Valiant",
+                "Spartacus"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Entertainment: Film",
+              "difficulty": "medium",
+              "question": "Which retired American football quarterback played himself in &#039;Ace Ventura: Pet Detective&#039; and &#039;Little Nicky&#039;?",
+              "correct_answer": "Dan Marino",
+              "options": [
+                "Dan Marino",
+                "John Elway",
+                "Tom Brady",
+                "Joe Montana"
+              ]
+            }
+          ]
+        },
+        "Computer": {
+          "chapterName": "Computer",
+          "numberOfQuestions": 5,
+          "questions": [
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Science: Computers",
+              "difficulty": "easy",
+              "question": "In any programming language, what is the most common way to iterate through an array?",
+              "correct_answer": "&#039;For&#039; loops",
+              "options": [
+                "&#039;For&#039; loops",
+                "&#039;If&#039; Statements",
+                "&#039;Do-while&#039; loops",
+                "&#039;While&#039; loops"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Science: Computers",
+              "difficulty": "easy",
+              "question": "What does CPU stand for?",
+              "correct_answer": "Central Processing Unit",
+              "options": [
+                "Central Processing Unit",
+                "Central Process Unit",
+                "Computer Personal Unit",
+                "Central Processor Unit"
+              ]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Science: Computers",
+              "difficulty": "medium",
+              "question": "The first computer bug was formed by faulty wires.",
+              "correct_answer": "False",
+              "options": ["False", "True"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Science: Computers",
+              "difficulty": "medium",
+              "question": "FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;",
+              "correct_answer": "False",
+              "options": ["False", "True"]
+            },
+            {
+              "points": "3",
+              "level": "Medium",
+              "questionImg": "",
+              "subject": "Math",
+              "type": "course",
+              "avgTime": "15",
+              "category": "Science: Computers",
+              "difficulty": "medium",
+              "question": "Whistler was the codename of this Microsoft Operating System.",
+              "correct_answer": "Windows XP",
+              "options": [
+                "Windows XP",
+                "Windows 2000",
+                "Windows 7",
+                "Windows 95"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
