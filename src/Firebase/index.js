@@ -3,5 +3,8 @@ import { addQuiz } from "./addQuiz";
 import getQuiz from "./getQuiz";
 import getStats from "./getStats";
 import addStats from "./addStats";
+import  getUsers from "./getUsers";
 
-export { addStats, getStats, getQuiz, addQuiz, firestore };
+import addUsers from "./addUsers";
+
+export { addUsers,addStats, getStats, getQuiz, addQuiz, firestore,getUsers };

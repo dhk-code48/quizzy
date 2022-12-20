@@ -1,20 +1,32 @@
 .leaderboard {
+  
   display: flex;
   flex-direction: column;
+  background: #23074d;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #cc5333, #23074d);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #cc5333, #23074d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  width: 60vw;
+  margin-left: 20vw;
+  
+  margin-bottom: 100px;
+  padding:50px 30px !important;
   align-items: center;
+  border-radius: 20px;
   justify-content: center;
   min-height: calc(100vh - 120px);
 }
 .leaderboard__title {
-  color: var(--primary);
+  color:#fff;
   margin-bottom: 20px;
   text-transform: uppercase;
   opacity: 0.8;
+  padding: 50px;
   letter-spacing: 2px;
 }
 .leaderboard > table {
   /* border: 1px solid rgb(4, 18, 56); */
   padding: 10px;
+  margin: 0px 30px;
   border-radius: 10px;
   font-family: rubik;
   font-weight: 500;
@@ -22,7 +34,7 @@
 .tableTr {
   display: flex;
   flex-wrap: nowrap;
-  width: 50vw;
+  width: 45vw;
   /* background: red; */
   margin-bottom: 40px;
   justify-content: space-between;
@@ -30,7 +42,7 @@
 }
 td {
   font-size: 18px;
-  color: rgb(54, 50, 50);
+  color:#fff;
   border: none;
 }
 .user_profile {

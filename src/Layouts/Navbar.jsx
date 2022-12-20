@@ -7,10 +7,12 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <div className="logo display">
-        <h1>QU</h1>
-        <p>IZZY</p>
-      </div>
+      <Link to={"/"}>
+        <div className="logo display">
+          <h1>QU</h1>
+          <p>IZZY</p>
+        </div>
+      </Link>
       <div className="flex">
         <Link to={"/start"}>
           <Button>Start Quiz</Button>

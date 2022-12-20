@@ -1,5 +1,279 @@
 {
   "course": {
+    "Biology":{
+      "subjectName":"Biology",
+      "noOfQuestion":25,
+      "noOfChapters":5,
+      "chapters":{
+        "Animal Kingdom":{
+          "chapterName":"Animal Kingdom",
+          "numberOfQuestions":10,
+          "questions":
+            [
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "1",
+                "level": "Easy",
+                "options": [
+                  { "img": "", "label": "Coelomate" },
+                  { "img": "", "label": "Acoelomate" },
+                  { "img": "}", "label": "Pseudocoelomate" },
+                  { "img": "", "label": "Haemocoelomate" }
+                ],
+                "points": "2",
+                "question": "Hydra is",
+                "questionImg": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2021%2F12%2F11%2Fscience%2Fhydra-regrow-head.html&psig=AOvVaw3MSjvCmwVd8DUjFo1M3433&ust=1671534438492000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDh1ZvFhfwCFQAAAAAdAAAAABAD"
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "1",
+                "level": "Medium",
+                "options": [
+                  { "img": "", "label": "Protozoa" },
+                  { "img": "", "label": "Porifera" },
+                  { "img": "}", "label": "Arthopoda" },
+                  { "img": "", "label": "Echinodermata" }
+                ],
+                "points": "4",
+                "question": "Water Canal system is found in",
+                "questionImg": ""
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "1",
+                "level": "Easy",
+                "options": [
+                  { "img": "", "label": "Coelentrata" },
+                  { "img": "", "label": "Arthopoda" },
+                  { "img": "}", "label": "Porifera" },
+                  { "img": "", "label": "Aschelminthes" }
+                ],
+                "points": "2",
+                "question": "Jointed leg is the main characteristics of",
+                "questionImg": ""
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "0",
+                "level": "Easy",
+                "options": [
+                  { "img": "", "label": "Porifera" },
+                  { "img": "", "label": "Coelentrata" },
+                  { "img": "}", "label": "Chordata" },
+                  { "img": "", "label": "Mollusca" }
+                ],
+                "points": "2",
+                "question": "Sponges belongs to phylum",
+                "questionImg": ""
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "0",
+                "level": "Medium",
+                "options": [
+                  { "img": "", "label": "Echinodermata" },
+                  { "img": "", "label": "Annelida" },
+                  { "img": "}", "label": "Mollusca" },
+                  { "img": "", "label": "Porifera" }
+                ],
+                "points": "4",
+                "question": "Pearl secreating phylum is",
+                "questionImg": ""
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "2",
+                "level": "Medium",
+                "options": [
+                  { "img": "", "label": "Giardia" },
+                  { "img": "", "label": "Trypanosoma" },
+                  { "img": "}", "label": "Leishmania" },
+                  { "img": "", "label": "Tse Tse fly" }
+                ],
+                "points": "4",
+                "question": "Kala-azar is caused by",
+                "questionImg": ""
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "1",
+                "level": "Hard",
+                "options": [
+                  { "img": "", "label": "Dog tapeworm" },
+                  { "img": "", "label": "Pork tapeworm" },
+                  { "img": "}", "label": "Fish tapeworm" },
+                  { "img": "", "label": "Beef tapeworm" }
+                ],
+                "points": "8",
+                "question": "Common name or Taenia solium is",
+                "questionImg": ""
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "1",
+                "level": "Hard",
+                "options": [
+                  { "img": "", "label": "R.H Whittacer" },
+                  { "img": "", "label": "Carolous linnaeus" },
+                  { "img": "}", "label": "Mendle" },
+                  { "img": "", "label": "Batson" }
+                ],
+                "points": "8",
+                "question": "Binomial system of nomenclature was given by",
+                "questionImg": ""
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "1",
+                "level": "Easy",
+                "options": [
+                  { "img": "", "label": "Arboreal animal" },
+                  { "img": "", "label": "Fossorial animal" },
+                  { "img": "}", "label": "Cursorial animal" },
+                  { "img": "", "label": "Saltatorial" }
+                ],
+                "points": "2",
+                "question": "Those animals which mostly live in the underground holes and burrow are called",
+                "questionImg": ""
+              },
+              {
+                "avgTime": 15,
+                "chapter": "Animal Kingdom",
+                "correct": "3",
+                "level": "Medium",
+                "options": [
+                  { "img": "", "label": "Aquatic" },
+                  { "img": "", "label": "Terrestial" },
+                  { "img": "}", "label": "Fossorial" },
+                  { "img": "", "label": "Arboreal" }
+                ],
+                "points": "4",
+                "question": "Tree dwelling animals are",
+                "questionImg": ""
+              }
+            
+          ]
+        },
+        "Vetebrates":{
+          "chapterName":"Animal Kingdom",
+          "numberOfQuestions":10,
+          "questions":[ {
+            "avgTime": 15,
+            "chapter": "Vertebrates",
+            "correct": "3",
+            "level": "Easy",
+            "options": [
+              { "img": "", "label": "Three chambered heart" },
+              { "img": "", "label": "Low body temperture" },
+              { "img": "}", "label": "External ear" },
+              { "img": "", "label": "Feathers" }
+            ],
+            "points": "2",
+            "question": "Birds have",
+            "questionImg": ""
+          },
+          {
+            "avgTime": 15,
+            "chapter": "Vertebrates",
+            "correct": "1",
+            "level": "Medium",
+            "options": [
+              { "img": "", "label": "Prosimans" },
+              { "img": "", "label": "primates" },
+              { "img": "}", "label": "edentates" },
+              { "img": "", "label": "cetacea" }
+            ],
+            "points": "4",
+            "question": "Man belongs to the group",
+            "questionImg": ""
+          },
+          {
+            "avgTime": 15,
+            "chapter": "Vertebrates",
+            "correct": "2",
+            "level": "Hard",
+            "options": [
+              { "img": "", "label": "Fragmentaion" },
+              { "img": "", "label": "Hypertomy" },
+              { "img": "}", "label": "Auotomy" },
+              { "img": "", "label": "Hypotomy" }
+            ],
+            "points": "8",
+            "question": "When lizard is threatened they can break of their tails and escape. This phenomenon is called",
+            "questionImg": ""
+          },
+          {
+            "avgTime": 15,
+            "chapter": "Vertebrates",
+            "correct": "1",
+            "level": "Easy",
+            "options": [
+              { "img": "", "label": "Fishes" },
+              { "img": "", "label": "Amphibians" },
+              { "img": "}", "label": "Reptiles" },
+              { "img": "", "label": "Mammals" }
+            ],
+            "points": "2",
+            "question": "Dual nature of habitation is shown by",
+            "questionImg": ""
+          },
+          {
+            "avgTime": 15,
+            "chapter": "Vertebrates",
+            "correct": "2",
+            "level": "Medium",
+            "options": [
+              { "img": "", "label": "8 pairs" },
+              { "img": "", "label": "10 pairs" },
+              { "img": "}", "label": "12 pairs" },
+              { "img": "", "label": "14 pairs" }
+            ],
+            "points": "4",
+            "question": "No.of cranial nerves in mammals is",
+            "questionImg": ""
+          },
+          {
+            "avgTime": 15,
+            "chapter": "Vertebrates",
+            "correct": "0",
+            "level": "Medium",
+            "options": [
+              { "img": "", "label": "Herpetology" },
+              { "img": "", "label": "Icthyology" },
+              { "img": "}", "label": "Entomology" },
+              { "img": "", "label": "Ornithology" }
+            ],
+            "points": "4",
+            "question": "Science dealing with the study of reptile is",
+            "questionImg": ""
+          },
+          {
+            "avgTime": 15,
+            "chapter": "Vertebrates",
+            "correct": "0",
+            "level": "Medium",
+            "options": [
+              { "img": "", "label": "Aves" },
+              { "img": "", "label": "Reptile" },
+              { "img": "}", "label": "Amphibians" },
+              { "img": "", "label": "Reptiles" }
+            ],
+            "points": "4",
+            "question": "Pneumaic bones are found in",
+            "questionImg": ""
+          }]
+        }
+      }
+    },
     "Math": {
       "subjectName": "Math",
       "noOfQuestion": 25,

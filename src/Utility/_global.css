@@ -50,8 +50,9 @@
 input,
 select,
 option {
-  border: 1px solid var(--primary);
-  background: var(--bg);
+  border:5px solid #fff;
+  box-shadow:0px 10px 1px solid rgba(24, 23, 23, 0.568);
+  background: rgb(238, 236, 236);
   border-radius: 5px;
   padding: 10px;
   font-family: "Rubik";

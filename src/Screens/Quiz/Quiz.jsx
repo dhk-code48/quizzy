@@ -6,7 +6,13 @@ import axios from "axios";
 
 import "./_quiz.css";
 const Quiz = () => {
-  const { type, subject, chapter } = useParams("type", "subject", "chapter");
+  const { name, regidNo, type, subject, chapter } = useParams(
+    "name",
+    "regidNo",
+    "type",
+    "subject",
+    "chapter"
+  );
 
   const [quizData, setQuizData] = useState(false);
   const [questions, setQuestions] = useState([]);
@@ -17,7 +23,7 @@ const Quiz = () => {
   /* ==================== GETTING QUIZ DATA ==================== */
   useEffect(() => {
     axios
-      .get(`http://localhost:3000/${type}?subjectName=${subject}`)
+      .get(`https://dhk-code48-stunning-space-bassoon-rv49699p4p529r6-3000.preview.app.github.dev/${type}?subjectName=${subject}`)
       .then((res) => {
         console.log("RES", res.data[subject]);
         setQuizData(res.data[subject]);
@@ -118,8 +124,8 @@ const Quiz = () => {
         <Question
           questions={questions}
           type={type}
-          regidNo={"79458"}
-          name="Sujal"
+          regidNo={regidNo}
+          name={name}
           quiz_type={type}
           subject={subject}
           chapter={chapter}
